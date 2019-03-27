@@ -1,0 +1,29 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card-header {
+    background-color: #2B0839;
+    color: #fff;
+}
+
+.header {
+    background: url('../images/home-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.header h1 {
+    font-weight: bold;
+    font-size: 5em;
+}
+
+.header hr {
+    border: 0.1em solid #fff;
+    width: 20%;
+}
+
+.fab,.fas {
+    color: black;
+}
